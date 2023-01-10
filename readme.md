@@ -9,3 +9,5 @@
 8. git merge ¨nombre-de-la-rama¨
 9. git checkout master
 10. git branch -d ¨nombre-rama¨
+11. git push
+12. git commit -am
