@@ -5,3 +5,6 @@
 4. git log
 5. git commmit --amend
 6. git checkout -b rama-2
+7. git checkout master
+8. git merge ¨nombre-de-la-rama¨
+9. git branch -d ¨nombre-rama¨
