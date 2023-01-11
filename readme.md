@@ -10,4 +10,4 @@
 9. git checkout master
 10. git branch -d ¨nombre-rama¨
 11. git push
-12. git commit -am
+12. git commit -amgit co
