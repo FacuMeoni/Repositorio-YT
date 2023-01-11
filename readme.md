@@ -10,4 +10,5 @@
 9. git checkout master
 10. git branch -d ¨nombre-rama¨
 11. git push
-12. git commit -amgit co
+12. git commit -amgit ¨nombre¨
+13. git clone
