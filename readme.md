@@ -12,3 +12,5 @@
 11. git push
 12. git commit -amgit ¨nombre¨
 13. git clone
+14. git branch -m
+15. git status (Si se realizo commit, en que rama nos encontramos, q hay para comittear)
